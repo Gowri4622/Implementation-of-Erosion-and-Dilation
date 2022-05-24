@@ -22,9 +22,10 @@ Plot the images using plt.imshow.
 
  
 ## Program:
-'''
-Developed by : S.Meena.
-Registeration Number:212221240028.
+```
+Developed by : Gowri M
+Registeration Number:212220230019
+```
 
 ``` Python
 # Import the necessary packages
@@ -61,14 +62,15 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
-![Screenshot (42)](https://user-images.githubusercontent.com/94677128/169796528-0b4b4b6d-6b9c-4763-92b1-45689ad4fa3d.png)
+![Screenshot_666](https://user-images.githubusercontent.com/75235455/169960805-ea40f555-969b-4183-9752-c43b502a7de0.png)
+
 
 ### Display the Eroded Image
-![Screenshot (43)](https://user-images.githubusercontent.com/94677128/169796899-d9b76364-4be0-47c4-9f7c-90edbf2b58f7.png)
+![Screenshot_664](https://user-images.githubusercontent.com/75235455/169960860-28e090d9-0b9e-48f9-b8cf-b533c1cd4a64.png)
+
 
 ### Display the Dilated Image
-![Screenshot (44)](https://user-images.githubusercontent.com/94677128/169797189-a606a18c-df1c-4c9f-a7f0-b996a5f15af4.png)
-
+![Screenshot_665](https://user-images.githubusercontent.com/75235455/169960884-6b972f2a-d1dc-4744-a5cc-c230e81d99f2.png)
 
 
 ## Result
